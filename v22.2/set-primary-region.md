@@ -232,5 +232,8 @@ SHOW REGIONS FROM DATABASE foo;
 - [`ADD REGION`](add-region.html)
 - [`DROP REGION`](drop-region.html)
 - [`SHOW REGIONS`](show-regions.html)
+- [Secondary regions](multiregion-overview.html#secondary-regions)
+- [`SET SECONDARY REGION`](set-secondary-region.html)
+- [`DROP SECONDARY REGION`](drop-secondary-region.html)
 - [`ALTER TABLE`](alter-table.html)
 - [SQL Statements](sql-statements.html)
